@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Udacity-Tour Guide</string>
+
+    <!-- Category name for City [CHAR LIMIT=20] -->
+    <string name="category_city">City</string>
+
+    <!-- Category name for Hospitality [CHAR LIMIT=20] -->
+    <string name="category_hostpitality">Hospitality</string>
+
+    <!-- Category name for Adventure [CHAR LIMIT=20] -->
+    <string name="category_adventure">Adventure</string>
+
+    <!-- Category name for Food [CHAR LIMIT=20] -->
+    <string name="category_food">Foods</string>
+
+</resources>
