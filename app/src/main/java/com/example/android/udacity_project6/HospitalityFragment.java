@@ -24,9 +24,9 @@ public class HospitalityFragment extends Fragment {
         // Hostpitality List
         final ArrayList<Location> locations = new ArrayList<Location>();
         locations.addAll(Arrays.asList(
-                new Location("Grand Hyatt Jakarta", "Located on the central jakarta with luxuries hospitality.", R.drawable.hyatt)
-                , new Location("Trans Studio Theme Park", "TRANS STUDIO BANDUNG THEME PARK is the second indoor theme park in Indonesia after Makassar. Trans Studio Bandung is much more spectacular and exciting than Trans Studio Makassar, but both have their own uniqueness that makes Trans Studio Bandung not only the biggest in Indonesia but also one of the biggest in the world.", R.drawable.trans)
-                , new Location("Ciputra World", "Ciputra World Surabaya has enhanced the reputation of Surabaya into a more modern and international city. Built on a 3 hectare site, the 90,000 sqm shopping mall is completed with  apartment blocks, a 5-star Hotel managed by Swiss-Belhotel International which will be opened in August 2014, and a lifestyle SOHO (Small Office Home Office) to accommodate modern people needs.", R.drawable.ciputra)
+                new Location(getResources().getString(R.string.hyatt_header), getResources().getString(R.string.hyatt_desc), R.drawable.hyatt)
+                , new Location(getResources().getString(R.string.trans_header), getResources().getString(R.string.trans_desc), R.drawable.trans)
+                , new Location(getResources().getString(R.string.ciputra_header), getResources().getString(R.string.ciputra_desc), R.drawable.ciputra)
         ));
 
         LocationAdapter locationAdapter = new LocationAdapter(getActivity(), locations);

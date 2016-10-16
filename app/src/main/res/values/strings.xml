@@ -13,4 +13,79 @@
     <!-- Category name for Food [CHAR LIMIT=20] -->
     <string name="category_food">Foods</string>
 
+    <!-- Fill Up activity header & desc  for eact page -->
+
+    <!-- City page -->
+    <!-- Jakarta-->
+    <string name="jakarta_header">Jakarta</string>
+    <string name="jakarta_desc">Located on the northwest coast of the world\'\s most populous island of Java, Jakarta is the country\'\s economic, cultural and political center, with a population of 10,075,310 as of 2014.[5][6] The official metropolitan area, known as Jabodetabek (a name formed by combining the initial syllables of Jakarta, Bogor, Depok, Tangerang and Bekasi), is the second largest in the world, yet the metropolis suburbs still continue beyond it. Its unofficial built-up (metropolitan) area covers Bogor, Tangerang, Bekasi, Karawang, Serang, Purwakarta, Sukabumi and Subang regencies (123 districts), also including Tangerang, Bekasi, Tangerang Selatan, Depok, Serang and Cilegon Municipalities, which in total were home to 30,214,303 inhabitants as of 2010 census.</string>
+
+    <!-- Surabaya-->
+    <string name="surabaya_header">Surabaya</string>
+    <string name="surabaya_desc">Surabaya (Indonesian pronunciation: [surə\ˈ\baja]) (formerly Dutch: Soerabaja/Soerabaia Javanese: ꦱꦸꦫꦧꦪ (Surabaya)), is the capital of Jawa Timur (East Java), located on northeastern Java island and along the edge of the Madura Strait and the second-largest-city in Indonesia. At the 2010 census, the city had a population over 2.8 million and an \'\extended metropolitan area\'\, with more than 9 million inhabitants in several cities and approximately 50 districts spread over non-contigous urban areas including Gresik, Sidoarjo, Mojokerto and Pasuruan regencies, and locally known as Gerbangkertosusila[1] The national government recognizes only the continuous core metropolitan area (Surabaya, Gresik and Sidarjo) as Greater Surabaya (Zona Surabaya Raya) with a population of 6,484,2060 (2010), making Surabaya now the third largest metropolitan area in Indonesia, after Greater Jakarta and Greater Bandung.</string>
+
+    <!-- Bali-->
+    <string name="bali_header">Bali</string>
+    <string name="bali_desc">Bali (Balinese: ᬩᬮᬶ) is an island and province of Indonesia. The province includes the island of Bali and a few smaller neighbouring islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan. It is located at the westernmost end of the Lesser Sunda Islands, between Java to the west and Lombok to the east. Its capital, Denpasar, is located in the southern part of the island</string>
+
+    <!-- Medan-->
+    <string name="medan_header">Medan</string>
+    <string name="medan_desc">Medan (Indonesian pronunciation: [meˈdan]; Indonesian: Kota Medan) is the capital of North Sumatra province in Indonesia. Located on the northern coast, and with 2,097,610 inhabitants at the 2010 census, Medan is third largest city in Indonesia (behind Jakarta and Surabaya), and the largest Indonesian city outside Java.[2][3][4]Its built-up (or metro) area made of 18 municipalities or districts was home to 4,103,696 inhabitants at the 2010 census.[5] The city is bordered by the Deli Serdang Regency to the east, south and west, and the Strait of Malacca to the north.</string>
+
+    <!-- Makassar-->
+    <string name="makassar_header">Makassar</string>
+    <string name="makassar_desc">Makassar (Buginese-Makassar language: ᨀᨚᨈ ᨆᨀᨔᨑ) – sometimes spelled Macassar, Mangkasara\'\ – is the provincial capital of South Sulawesi, Indonesia. It is the largest city on Sulawesi Island in terms of population, and the fifth largest city in Indonesia after Jakarta, Surabaya, Bandung, and Medan.[1][2] From 1971 to 1999, the city was named Ujung Pandang, after a precolonial fort in the city, and the two names are often used interchangeably. The city is located on the southwest coast of the island of Sulawesi, facing the Makassar Strait</string>
+
+
+    <!-- Hospitality page -->
+    <!-- Hyatt-->
+    <string name="hyatt_header">Grand Hyatt Jakarta</string>
+    <string name="hyatt_desc">Located on the central jakarta with luxuries hospitality.</string>
+
+    <!-- Trans Studio-->
+    <string name="trans_header">Trans Studio Theme Park</string>
+    <string name="trans_desc">TRANS STUDIO BANDUNG THEME PARK is the second indoor theme park in Indonesia after Makassar. Trans Studio Bandung is much more spectacular and exciting than Trans Studio Makassar, but both have their own uniqueness that makes Trans Studio Bandung not only the biggest in Indonesia but also one of the biggest in the world.</string>
+
+    <!-- Ciputra-->
+    <string name="ciputra_header">Ciputra World</string>
+    <string name="ciputra_desc">Ciputra World Surabaya has enhanced the reputation of Surabaya into a more modern and international city. Built on a 3 hectare site, the 90,000 sqm shopping mall is completed with  apartment blocks, a 5-star Hotel managed by Swiss-Belhotel International which will be opened in August 2014, and a lifestyle SOHO (Small Office Home Office) to accommodate modern people needs.</string>
+
+
+
+    <!-- Adventure page -->
+    <!-- Raja Ampat -->
+    <string name="raja_ampat_header">Raja Ampat</string>
+    <string name="raja_ampat_desc">Located off the northwest tip of Bird\'\s Head Peninsula on the island of New Guinea, in Indonesia\'\s West Papua province, Raja Ampat, or the Four Kings, is an archipelago comprising over 1,500 small islands, cays, and shoals surrounding the four main islands of Misool, Salawati, Batanta, and Waigeo, and the smaller island of Kofiau. The Raja Ampat archipelago is the part of Coral Triangle which contains the richest marine biodiversity on earth</string>
+
+    <!-- Bunaken-->
+    <string name="bunaken_header">Bunaken</string>
+    <string name="bunaken_desc">Bunaken is an island of 8 km², part of the Bunaken National Marine Park. Bunaken is located at the northern tip of the island of Sulawesi, Indonesia. It belongs administratively to the municipality of Manado. Scuba diving attracts many visitors to the island.Other sides of Bunaken. Bunaken National Park extends over an area of 890.65 km² of which only 3% is terrestrial, including Bunaken Island, as well as the islands of Manado Tua, Mantehage, Nain and Siladen.</string>
+
+    <!-- Mount Bromo -->
+    <string name="bromo_header">Mount Bromo</string>
+    <string name="bromo_desc">Mount Bromo (Indonesian: Gunung Bromo), is an active volcano and part of the Tengger massif, in East Java, Indonesia. At 2,329 metres (7,641 ft) it is not the highest peak of the massif, but is the most well known. The massif area is one of the most visited tourist attractions in East Java, Indonesia. The volcano belongs to the Bromo Tengger Semeru National Park. The name of Bromo derived from Javanese pronunciation of Brahma, the Hindu creator god. Sulfur is collected from inside the caldera by workers.</string>
+
+    <!-- ijen-->
+    <string name="ijen_header">Kawah Ijen</string>
+    <string name="ijen_desc">It is inside a larger caldera Ijen, which is about 20 kilometres wide. The Gunung Merapi stratovolcano is the highest point of that complex. The name "Gunung Merapi" means "mountain of fire" in the Indonesian language (api being "fire"); Mount Merapi in central Java and Marapi in Sumatra have the same etymology.
+West of Gunung Merapi is the Ijen volcano, which has a one-kilometre-wide turquoise-coloured acidic crater lake. The lake is the site of a labour-intensive sulfur mining operation, in which sulfur-laden baskets are carried by hand from the crater floor. The work is paid well considering the cost of living in the area, but is very onerous.[2] Workers earn around Rp 50,000 - 75,000 ($5.50-$8.30) per day and once out of the crater, still need to carry their loads of sulfur chunks about three kilometers to the nearby Paltuding Valley to get paid</string>
+
+    <!-- Food page -->
+    <!-- Pecel-->
+    <string name="pecel_header">Pecel</string>
+    <string name="pecel_desc">Pecel is a traditional Javanese salad, consisting of a mixed vegetables in peanut sauce dressing, usually served with steamed rice or sometimes with lontong or ketupat compressed rice cake.[1][2] The peanut sauce used in pecel is also similar to gado-gado. Peanut sauce for pecel has no coconut milk.[1] However pecel has been strongly associated with Javanese cuisine, while gado-gado is usually associated with Betawi and Sundanese cuisine. In Malaysia, it is called as pecal[3] which is introduced by the Javanese immigrants. Pecel is also very popular in Suriname, where it was introduced by the Javanese Surinamese</string>
+
+    <!-- Gudeg-->
+    <string name="gudeg_header">Gudeg</string>
+    <string name="gudeg_desc">Gudeg is a traditional Javanese cuisine from Yogyakarta and Central Java, Indonesia. Gudeg is made from young unripe jack fruit (Javanese: gori, Indonesian: nangka muda) boiled for several hours with palm sugar, and coconut milk.[3][4] Additional spices include garlic, shallot, candlenut, coriander seed, galangal, bay leaves, and teak leaves, the latter giving a reddish brown color to the dish.[5] It is often described as "green jack fruit sweet stew\</string>
+
+    <!-- Soto-->
+    <string name="soto_header">Soto Ayam</string>
+    <string name="soto_desc">Soto ayam is a yellow spicy chicken soup[3] with lontong or nasi himpit or ketupat (all compressed rice that is then cut into small cakes) and/or vermicelli[4] or noodles, commonly found in Indonesia,[1][2] Singapore,[5] Malaysia [6][7] and Suriname. Turmeric is added as one of its ingredients to get yellow chicken broth. It is probably the most popular variant of soto, a traditional soup commonly found in Indonesian cuisine. Besides chicken and vermicelli, it can also be served with hard-boiled eggs, slices of fried potatoes, Chinese celery leaves, and fried shallots. Occasionally, people will add "koya", a powder of mixed prawn crackers with fried garlic or orange colored spicy sambal, krupuk or emping is a very common topping.</string>
+
+    <!-- Bakso-->
+    <string name="bakso_header">Bakso</string>
+    <string name="bakso_desc">Bakso or baso is Indonesian meatball,[2] or meat paste made from beef surimi.[3] Its texture is similar to the Chinese beef ball, fish ball, or pork ball. The term bakso could refer to a single meatball or the whole bowl of meatballs soup.Bakso can be found all across Indonesia; from the traveling cart street vendors to restaurants. Next to soto, satay and siomay, bakso is one of the popular street food in Indonesia.[4] Today, various types of ready to cook bakso also available as frozen food commonly sold in supermarkets in Indonesia.</string>
+
+
 </resources>

@@ -11,8 +11,6 @@ public class Location {
 
     public static final int NO_IMAGE = -1;
 
-    private double latitude;
-    private double longitude;
 
     /**
      *  Contrutor with Image
@@ -60,8 +58,6 @@ public class Location {
                 "LocationName='" + LocationName + '\'' +
                 ", LocationDescription='" + LocationDescription + '\'' +
                 ", ImageResource=" + ImageResource +
-                ", latitude=" + latitude +
-                ", longitude=" + longitude +
                 '}';
     }
 }
